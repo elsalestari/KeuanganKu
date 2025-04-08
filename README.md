@@ -1,7 +1,7 @@
 # KeuanganKu
-💰 Aplikasi Pengelolaan Keuangan Pribadi
+💰 Pengelolaan Keuangan Pribadi
 
-Aplikasi sederhana berbasis web untuk mencatat transaksi keuangan pribadi (pemasukan & pengeluaran). Aplikasi ini mengimplementasikan **CRUD melalui REST API** menggunakan **Express.js** di backend dan **HTML + JavaScript** di frontend.
+Project sederhana berbasis web untuk mencatat transaksi keuangan pribadi (pemasukan & pengeluaran) dengan mengimplementasikan **CRUD melalui API**.
 
 ---
 
