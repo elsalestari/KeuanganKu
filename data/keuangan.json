@@ -1,0 +1,16 @@
+[
+  {
+    "kategori": "pemasukan",
+    "jumlah": 3000000,
+    "tanggal": "2025-04-08",
+    "deskripsi": "THR",
+    "id": 2
+  },
+  {
+    "kategori": "pengeluaran",
+    "jumlah": 50000,
+    "tanggal": "2025-04-08",
+    "deskripsi": "Jajan",
+    "id": 3
+  }
+]
